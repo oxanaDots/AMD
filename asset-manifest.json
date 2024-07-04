@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/babyoda/static/css/main.0cb16ec6.css",
-    "main.js": "/babyoda/static/js/main.2cd10507.js",
-    "static/js/453.420250c7.chunk.js": "/babyoda/static/js/453.420250c7.chunk.js",
-    "static/media/concrete-wall.jpg": "/babyoda/static/media/concrete-wall.92635a46bf753c697bd4.jpg",
-    "static/media/illustration.png": "/babyoda/static/media/illustration.cd7dbce94d75399e7025.png",
-    "static/media/illustration_02.svg": "/babyoda/static/media/illustration_02.171b47814ad79ba36a3a.svg",
-    "static/media/illustration.svg": "/babyoda/static/media/illustration.3f19a834b2d28d5dff3c.svg",
-    "index.html": "/babyoda/index.html",
-    "main.0cb16ec6.css.map": "/babyoda/static/css/main.0cb16ec6.css.map",
-    "main.2cd10507.js.map": "/babyoda/static/js/main.2cd10507.js.map",
-    "453.420250c7.chunk.js.map": "/babyoda/static/js/453.420250c7.chunk.js.map"
+    "main.css": "/AMD/static/css/main.4fbab4f1.css",
+    "main.js": "/AMD/static/js/main.83cdbe0f.js",
+    "static/js/453.420250c7.chunk.js": "/AMD/static/js/453.420250c7.chunk.js",
+    "static/media/concrete-wall.jpg": "/AMD/static/media/concrete-wall.92635a46bf753c697bd4.jpg",
+    "static/media/illustration.png": "/AMD/static/media/illustration.cd7dbce94d75399e7025.png",
+    "static/media/illustration_02.svg": "/AMD/static/media/illustration_02.171b47814ad79ba36a3a.svg",
+    "static/media/illustration.svg": "/AMD/static/media/illustration.3f19a834b2d28d5dff3c.svg",
+    "index.html": "/AMD/index.html",
+    "main.4fbab4f1.css.map": "/AMD/static/css/main.4fbab4f1.css.map",
+    "main.83cdbe0f.js.map": "/AMD/static/js/main.83cdbe0f.js.map",
+    "453.420250c7.chunk.js.map": "/AMD/static/js/453.420250c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cb16ec6.css",
-    "static/js/main.2cd10507.js"
+    "static/css/main.4fbab4f1.css",
+    "static/js/main.83cdbe0f.js"
   ]
 }
