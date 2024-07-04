@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AMD/static/css/main.4fbab4f1.css",
-    "main.js": "/AMD/static/js/main.83cdbe0f.js",
-    "static/js/453.420250c7.chunk.js": "/AMD/static/js/453.420250c7.chunk.js",
+    "main.js": "/AMD/static/js/main.fc4c8c1e.js",
+    "static/js/317.d8183d35.chunk.js": "/AMD/static/js/317.d8183d35.chunk.js",
     "static/media/concrete-wall.jpg": "/AMD/static/media/concrete-wall.92635a46bf753c697bd4.jpg",
     "static/media/illustration.png": "/AMD/static/media/illustration.cd7dbce94d75399e7025.png",
     "static/media/illustration_02.svg": "/AMD/static/media/illustration_02.171b47814ad79ba36a3a.svg",
     "static/media/illustration.svg": "/AMD/static/media/illustration.3f19a834b2d28d5dff3c.svg",
     "index.html": "/AMD/index.html",
     "main.4fbab4f1.css.map": "/AMD/static/css/main.4fbab4f1.css.map",
-    "main.83cdbe0f.js.map": "/AMD/static/js/main.83cdbe0f.js.map",
-    "453.420250c7.chunk.js.map": "/AMD/static/js/453.420250c7.chunk.js.map"
+    "main.fc4c8c1e.js.map": "/AMD/static/js/main.fc4c8c1e.js.map",
+    "317.d8183d35.chunk.js.map": "/AMD/static/js/317.d8183d35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fbab4f1.css",
-    "static/js/main.83cdbe0f.js"
+    "static/js/main.fc4c8c1e.js"
   ]
 }
